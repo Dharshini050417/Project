@@ -1,2 +1,2 @@
 # Project
-Detecting the hand gesture 
+Projects with AI
